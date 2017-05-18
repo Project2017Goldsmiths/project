@@ -1,0 +1,4 @@
+-All program input files mentioned in the report are contained in this directory.
+ To find a specific file, please run a search in this directory. 
+
+-tf-idf.py will only run on a Linux system. 
